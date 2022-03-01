@@ -1,0 +1,15 @@
+{
+  "ProjectName": "DCKingsHand",
+  "ModVersion": "0.0.0.0",
+  "CodeDir": ".\\Scripts\\",
+  "EmbeddedResourceDir": ".\\EmbeddedResource\\",
+  "EmbeddedResource": {
+    "dckinghand": "DCKingsHand.ab"
+  },
+  "Guid": "7451db84-69ed-46b0-a4f8-0f4b8a6523aa",
+  "DependenciesDir": ".\\Dependencies\\",
+  "ModdingAPIVersion": "1.5.78.11833-68",
+  "IgnoreDlls": [],
+  "WebDependencies": [],
+  "UseGZip": true
+}
